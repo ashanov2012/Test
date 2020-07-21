@@ -11,5 +11,3 @@ print ("Hi")
 print ("1111")
 
 print ('2222')
-
-print ("my name is anthony gronservic3")
