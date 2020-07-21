@@ -1,0 +1,10 @@
+import os
+
+print (os.getcwd())
+print (os.mkdir("hello"))
+
+print ("hello world")
+
+print ("Hi")   
+
+
